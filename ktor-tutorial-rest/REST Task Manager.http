@@ -1,0 +1,22 @@
+GET http://localhost:8080/tasks
+Accept: application/json
+
+###
+
+GET http://localhost:8080/tasks/byPriority/Medium
+Accept: application/json
+
+###
+
+POST http://localhost:8080/tasks
+Content-Type: application/json
+
+{
+  "name": "cooking",
+  "description": "Cook the dinner",
+  "priority": "High"
+}
+
+###
+
+DELETE http://localhost:8080/tasks/gardening
