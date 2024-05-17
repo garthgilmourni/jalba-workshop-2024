@@ -6,6 +6,8 @@ The following projects are included in this repository. All projects are standal
 
 1. **ai-assistant-ktor** - A simple Task manager web application. Used to demo the AI Assistant.
 2. **ai-assistant-photography** - A function for calculating the [Exposure Value](https://en.wikipedia.org/wiki/Exposure_value) from photography. Used to demo the AI Assistant. 
+2. **kmp-weather-app-start** - The starter project for an exercise in building cross platform mobile and desktop applications with [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) and [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/).
+3. **kmp-weather-app-finish** - The solution to the above exercise.
 2. **ai-assistant-regex** - A function that emulates the UNIX grep command. Used to demo the AI Assistant.
 3. **ktor-graphql-integration** - Using the GraphQL plugin for Ktor, as an alternative to REST.
 4. **ktor-kmp-retries** - Support for retrying requests in Ktor.
